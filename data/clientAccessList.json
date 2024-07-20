@@ -1,0 +1,86 @@
+[
+    {
+        "ClientId": "ABC1234",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgIRI",
+        "MD5": "d543774b897055c2a5a9bd7d0e2f7d61",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1235",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgPQR",
+        "MD5": "c519a1d3c9371dc51a3584900eb89d43",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1236",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgIRU",
+        "MD5": "689b7694ed15c1d757b75f79169e3429",
+        "Active": "0",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1237",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgNDJ",
+        "MD5": "cc17f23b007df596e1980f8c973d377e",
+        "Active": "0",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1238",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgUIR",
+        "MD5": "",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1239",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgMJC",
+        "MD5": "00b9159e5118d6dbc5289a84870bbb48",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1240",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgPOE",
+        "MD5": "ef7952b4a52dab8c496d55cc5fdb4d24",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1241",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgHYR",
+        "MD5": "b3754490fe00fd9bffe3c06640d5d9d6",
+        "Active": "0",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1242",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgQWE",
+        "MD5": "5a5c3a98894e494ff4b9804a8bc02c29",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1243",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgOMN",
+        "MD5": "822b25203bed2f31480643a9fb391c63",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1244",
+        "Secret_key": "btfMPni8t10b6t7ACAWsy55SLpZBgLKJ",
+        "MD5": "1323b708fe5ed618e959e4f8e2986602",
+        "Active": "1",
+        "Expiry_date": ""
+    },
+    {
+        "ClientId": "ABC1245",
+        "Secret_key": "btfMPni9t10b6t7ACAWsy55SLpZBgYTR",
+        "MD5": "19e02ebb7e206cd736cfc29fbcc3ec0c",
+        "Active": "1",
+        "Expiry_date": ""
+    }
+]
